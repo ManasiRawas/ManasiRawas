@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ManasiRawas
 - 👀 I’m interested in Coding
 - 🌱 Bca Graduated.
-
+- Apperaing Masters in data science and big data analytics.
 - 📫 How to reach me manasirawas26@gmail.com / insta- manna@26
 
 <!---
